@@ -38,3 +38,27 @@ my_city = 'Chicago'
 
 my_state = 'Illinois'
 
+# Lab 2
+
+# What is the full list of reserved words that can't be used for variable names?
+
+''' False, None, True, and, as, assert, break, class, continue, def, del, elif, else, except, finally, for, from, global,
+if, import, in, is, lambda, nonlocal, not, or, pass, raise, return, try, while, with, yield'''
+
+
+
+'''Pick 5 of these words and review the explanation for how it is used as a keyword in 
+Python. Add these 5 definitions as comments to your exercise document. Put ^^
+around any terms that you are not familiar with'''
+
+# 1. ^raise^ - The raise statement is used to raise an error. These errors are visible in the traceback and they cancel the execution of the program if not handled properly.
+
+# 2. ^elif^ - Shorthand for else if, checks if some other condition holds when the condition in the if statement is false
+
+# 3. ^lambda^ - A lambda function in Python is an anonymous function. It can take any number of arguments but only have a single expression.
+
+# 4. ^nonlocal^ - This keyword is used in functions inside functions to create anonymous functions.
+
+# 5. ^global^ - Accessing a global variable is simple as any other variable but to modify a global variable, you need to use the global keyword.
+
+    
