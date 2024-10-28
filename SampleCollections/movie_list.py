@@ -28,4 +28,4 @@ print(fave_movies)
 
 
 print('The list fave_movies includes my top ' + str((len(fave_movies))) + ' favorite movies')
-print('The list ' + str(fave_movies) + ' includes my top ' + str((len(fave_movies))) + ' favorite movies')
+print('The list ' + str(fave_movies) + ' includes my top ' + str((len(fave_movies))) + ' favorite movies') 
