@@ -16,5 +16,7 @@ student_major = [
 ]
 
 # Calculate unknown values
-student_name = str(input())
-if student_major 
+if student_major == 'BIOL':
+    print(student_major['dept_office'])
+
+print(student['student_name'])
