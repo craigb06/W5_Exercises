@@ -54,3 +54,5 @@ else:
     major = '<unknown>'
     dept_office = ''
     print(f'{major}, {dept_office}')
+
+    
